@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marketplace</string>
+    <string name="title_user">Login</string>
+    <string name="title_home">Home</string>
+    <string name="title_register">Register</string>
+    <string name="create_product">Create product</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    create_product
+</resources>

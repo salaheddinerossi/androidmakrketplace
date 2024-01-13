@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_login"
+        android:icon="@drawable/baseline_login_24"
+        android:title="@string/title_user" />
+    <item
+        android:id="@+id/navigation_register"
+        android:icon="@drawable/baseline_supervised_user_circle_24"
+        android:title="@string/title_register" />
+
+</menu>

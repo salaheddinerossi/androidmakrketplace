@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_create_product"
+        android:icon="@drawable/baseline_add_box_24"
+        android:title="@string/create_product" />
+
+    <item
+        android:id="@+id/navigation_view_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="@string/logout" />
+</menu>
